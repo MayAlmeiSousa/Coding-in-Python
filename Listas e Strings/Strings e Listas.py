@@ -19,13 +19,14 @@ print("A Quantidade de letras é ",len(nome))
 #Passo1:Inserção dos nomes dentro das listas.
 #Limitação: A mesma da primeira parte só funcionará com a quantidade pré formatada.
 print("------------ Brincando com Listas --------------------")
-Avang_nome=["Steve Rogers","Tony Stark","Peter Parker","Clint Barneers","Thor Odinson"]
+Avang_nome=["Steve Rogers","Tony Stark","Peter Parker","Clint Barneers","Thor Odinson","Sam Wilson"]
 #Passo2:Mostrar cada nome para o usuário.
 print(Avang_nome[0])
 print(Avang_nome[1])
 print(Avang_nome[2])
 print(Avang_nome[3])
 print(Avang_nome[4])
+print(Avang_nome[5])
 #Passo3: Mostar a quantidade de elementos da lista, ou seja, o tamanho da lista e não a quantidade de letras de cada nome.
 #isto é o que diferencia um função "LEN" da outra.
 print("A Quantidade de elementos é ",len(Avang_nome))
