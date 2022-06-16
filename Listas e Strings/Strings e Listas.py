@@ -4,7 +4,8 @@ print("------------ Brincando com Strings --------------")
 nome=input("Insira o seu Nome : ")
 #Passo2:Mostrar cada letra armazenada na variável.
 #Limitação: Só funcinará com nomes que possuem 6 letras.
-print(nome)
+print("O nome digitado foi:",nome)
+print("---------------------------------------------------")
 print(nome[0])
 print(nome[1])
 print(nome[2])
@@ -26,5 +27,5 @@ print(Avang_nome[2])
 print(Avang_nome[3])
 print(Avang_nome[4])
 #Passo3: Mostar a quantidade de elementos da lista, ou seja, o tamanho da lista e não a quantidade de letras de cada nome.
-#isto é o que diferencia um funcção "LEN" da outra.
+#isto é o que diferencia um função "LEN" da outra.
 print("A Quantidade de elementos é ",len(Avang_nome))
