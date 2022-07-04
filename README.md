@@ -1,4 +1,5 @@
 # Codando em Python.
+![Python](https://user-images.githubusercontent.com/105395581/177203556-afd10b5b-018e-4bcf-b4f0-641ad0528a02.PNG)
 ## Exercícios práticos e variados para o **Treinamento da Linguagem**:
 1.**Operações Matemáticas:** Um programa para ler dois número digitados pelo usuário, mostrar um pequeno menu com as operações matemáticas e no final mostrar o resultado da operação escolhida para o usuário.
 ***
