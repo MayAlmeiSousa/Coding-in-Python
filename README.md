@@ -9,3 +9,5 @@
 ***
 4° **Tabuada:** Mostrar a tabuada escolhida pelo usuário.
 ***
+5° **Hamburgueria:** Simular um sistema que mostra o cardápio ao usuário, resumo do pedido e o pagamento.
+***
