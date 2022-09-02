@@ -11,5 +11,5 @@
 ***
 5° **Hamburgueria:** Simular um sistema que mostra o cardápio ao usuário, resumo do pedido e o pagamento.
 ***
-6° **Conversor de Temperatura:** Converter Temperaturas 
+6° **Conversor de Temperatura:** Converter Temperaturas. 
 ***
