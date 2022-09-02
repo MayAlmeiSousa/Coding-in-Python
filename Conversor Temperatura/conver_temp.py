@@ -1,13 +1,11 @@
 #// Converter uma temperatura de Graus Celsius para Kelvin.
-
-def converter_temperatura (a,b:float):
-    a=b+273
-    return (a)
+def converter_temperatura (a:float):
+    result=a+273
+    return (result)
 
 temperatura=input("Digite uma temperatura (Celsius): ")
 celsius=float(temperatura)
-result=0.0
 
-kelvin=converter_temperatura(result,celsius)
+kelvin=converter_temperatura(celsius)
 
 print(" A temperatura convertida em Kelvin é:",kelvin)
