@@ -13,3 +13,5 @@
 ***
 6° **Conversor de Temperatura:** Converter Temperaturas. 
 ***
+7° **Média da Turma:** Calcular a média de uma turma de 10 alunos e mostrar o resultado na tela.
+***
