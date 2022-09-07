@@ -1,6 +1,5 @@
-
-# Média da Turma.
-# Função: Efetuar o calculo da média de uma turma de 10 Alunos. 
+#// Média da Turma.
+#// Função: Efetuar o calculo da média de uma turma de 10 Alunos. 
 
 print("-"*50)
 print(" Colégio Estadual Guilherme Santos ")
@@ -38,4 +37,4 @@ for x in range(0,10):
        
 turma_m=media_turma(soma_m)
       
-print(f"A média dos alunos da turma é de {turma_m:.2f}") #Formatação para mostrar na tela o resultado com dois números decimais depois da vírgula. 
+print(f"A média dos alunos da turma é de {turma_m:.2f}") #//Formatação para mostrar na tela o resultado com dois números decimais depois da vírgula. 
