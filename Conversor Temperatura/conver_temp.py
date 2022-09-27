@@ -1,5 +1,3 @@
-#// Função: Converter uma temperatura de Graus Celsius para Kelvin.
-
 def celsius_kelvin (a:float):
    k=a+273
    return (k)
